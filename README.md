@@ -1,6 +1,6 @@
 # Neural-Style-Transfer
 Our project relies mainly on PyTorch, numpy, matplotlib, and torchvision
-* The code of G11_code.ipynb should be run in order.
+* The code of code.ipynb should be run in order.
 * GPU is optional, but strongly recommended
 * Training takes 2 to 20 minutes in GPU normally. But much longer time in CPU.
 * The output image will be named as 'target.jpg' and saved in the same directory.
